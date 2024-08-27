@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938576316011",
+    "project_id": "loginsignupwithfirebase-d3a9f",
+    "storage_bucket": "loginsignupwithfirebase-d3a9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938576316011:android:5720afe8585a3ed17dd32e",
+        "android_client_info": {
+          "package_name": "com.codewithharsh.loginsignupwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyGIMYDCVtCdifZfVpbZKwThnkUZmR474"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
