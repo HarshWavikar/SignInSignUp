@@ -5,19 +5,19 @@ coreKtx = "1.13.1"
 junit = "4.13.2"
 junitVersion = "1.2.1"
 espressoCore = "3.6.1"
-lifecycleRuntimeKtx = "2.8.4"
-activityCompose = "1.9.1"
-composeBom = "2024.08.00"
+lifecycleRuntimeKtx = "2.8.6"
+activityCompose = "1.9.2"
+composeBom = "2024.09.03"
 
 #  Hilt
 hiltNavigationCompose = "1.2.0"
 hiltAndroid = "2.51.1"
 
 #  ExtendedIcons
-materialIconsExtendedAndroid = "1.6.8"
+materialIconsExtendedAndroid = "1.7.3"
 
 #  Type Safe Navigation
-navigationCompose = "2.8.0-beta06"
+navigationCompose = "2.8.2"
 kotlinxSerializationJson = "1.7.1"
 kotlinxSerialization = "2.0.0"
 
@@ -28,7 +28,7 @@ googleGmsGoogleServices = "4.4.2"
 # Firebase
 firebaseAuth = "23.0.0"
 firebaseFirestore = "25.1.0"
-firebaseStorage = "21.0.0"
+firebaseStorage = "21.0.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
